@@ -1,0 +1,20 @@
+/* PokemonsList.css */
+.page-title {
+  color: #3880ff;
+  text-align: center;
+  background-color: yellow;
+  font-weight: bold;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.select-container {
+  margin: 20px auto;
+  width: 80%;
+}
+
+.select {
+  width: 100%;
+  --background: #f0f0f0;
+  --border-color: #3880ff;
+}
